@@ -1,0 +1,21 @@
+20
+Load Image
+Save Image
+Change Brightness
+Contrast
+Sharpness
+Image To Binary
+Image Resizing
+Rotation
+Flip
+Crop
+Combining Images
+BLur (Mean & Median)
+Linear Filter
+Enhance Image
+Compute Derivative
+Edge Detection
+Translate
+Scale an Image
+Show Image
+Exit
