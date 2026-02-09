@@ -7,14 +7,7 @@ A **console-based C++ image processing application** that allows loading, manipu
 ## Table of Contents
 
 - [Features](#features)  
-- [Project Structure](#project-structure)  
-- [Requirements](#requirements)  
-- [Usage](#usage)  
-- [Menu Example](#menu-example)  
 - [Notes](#notes)  
-- [Future Improvements](#future-improvements)  
-- [Author](#author)  
-- [License](#license)  
 
 ---
 
@@ -27,60 +20,11 @@ A **console-based C++ image processing application** that allows loading, manipu
 
 ---
 
-## Project Structure
-
-ImageProcessing/
-│
-├── main.cpp # Main program & menu-driven interface
-├── Image.h / Image.cpp # Image class with processing functions
-├── Menu.h / Menu.cpp # Menu class for interactive selection
-├── MainMenu.txt # Menu items
-├── filters/ # Optional folder for custom linear filters
-└── screenshots/ # Screenshots for README or testing
-
-
----
-
-## Requirements
-
-- **C++ compiler** (C++11 or higher)   
-- Input images in **PGM (P2 ASCII)** format  
-
----
-
 Follow the Menu
 
 Load a PGM image.
 Apply transformations, filters, or enhancements.
 Save the modified image.
-
----
-
-Menu Example
-
-MainMenu.txt example:
-
-19
-Load Image
-Save Image
-Change Brightness
-Contrast Stretching
-Adjust Sharpness
-Convert to Binary
-Resize Image
-Rotate Image
-Flip Image
-Crop Image
-Merge Images
-Apply Mean/Median Filter
-Apply Linear Filter
-Enhance Image
-Compute Derivative
-Edge Detection
-Translate Image
-Scaling Image
-Show Image
-Exit
 
 ---
 
